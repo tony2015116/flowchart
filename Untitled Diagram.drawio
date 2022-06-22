@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T00:04:42.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" version="20.0.1" etag="JkUu4FP9Ks3Lmvqw4Hof" type="github"><diagram id="22VN-EeVPnQ5z_qtFrgJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-22T01:00:18.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="rv0jVELyQ-e0l04IaEi1" version="20.0.1" type="github">
+  <diagram id="22VN-EeVPnQ5z_qtFrgJ" name="Page-1">
+    <mxGraphModel dx="1042" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-1" value="Rstudio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="320" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-5" value="GitHub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="389" y="308" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-6" value="Netlify" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="459" y="308" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-9" value=".Rmd" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="179" y="333" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-10" value=".html" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="303" y="333" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-11" value=".Rmarkdown" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="178" y="308" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-12" value=".md" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="302" y="308" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-13" value="Typora" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="554" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-14" value="GitHub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="554" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-15" value="PicGo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="554" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-16" value="VScode" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="94" y="399" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-17" value="markdown" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="154" y="382" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-18" value="PicGo 插件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="374" y="392" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-19" value=".html /.html+folder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="462" y="554" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-20" value="GitPages" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="840" y="450" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-21" value="nbconvert jupyter notebook to .html/.md" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="412" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-22" value="jupyter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="412" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-23" value="python code + markdown" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="412" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-24" value="Zhihu on VSCode 插件（直接上传图片，不需考虑图床）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="153" y="477" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-27" value="knit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="263" y="321" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-29" value=".md文件拷贝粘贴到markdown nice网页版即可生成知乎版markdown" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="149" y="502" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-30" value="可以导出word&lt;br&gt;对非编程技术类友好" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="299" y="549" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-31" value="可渲染不同精美的css主题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="389" y="333" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZ0YHBkAjMOt1xUWxwwI-32" value="基本不需要PicGo的图床功能，.Rmd knit 成.html后，插入的图片&lt;br&gt;会生成在对应的文件夹中，将其一起push到github就可以" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="333" width="360" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
