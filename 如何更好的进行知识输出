@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T14:28:16.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="sX2ufK0ylC5OuE0VEPFl" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T14:29:20.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="NGKFRiiix1iZlnszua6d" version="20.0.1" type="github">
   <diagram id="22VN-EeVPnQ5z_qtFrgJ" name="Page-1">
     <mxGraphModel dx="1042" dy="631" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -164,13 +164,13 @@
           <mxGeometry x="92" y="441" width="20" height="96" as="geometry" />
         </mxCell>
         <mxCell id="OZ0YHBkAjMOt1xUWxwwI-180" value="&lt;b style=&quot;font-style: normal;&quot;&gt;Rstudio创作的优势和劣势：&lt;/b&gt;&lt;br&gt;1. Rstudio中不需要PicGo的图床功能，.Rmd/.Rmarkdown knit 成.html后，&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; 插入的图片会生成在对应的文件夹中，将其一起push到github就可以；&lt;br style=&quot;font-size: 11px;&quot;&gt;2. 感觉Rstudio对.Rmd编辑较.Rmarkdown更加友好，有多种css主题可以选择；&lt;br style=&quot;font-size: 11px;&quot;&gt;3. Rstuio中.Rmd/.Rmarkdown都可运行R和Python并输出结果。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontColor=#46495D;fontStyle=2;horizontal=1;fontSize=11;arcSize=0;" parent="1" vertex="1">
-          <mxGeometry x="54" y="582" width="438" height="72" as="geometry" />
+          <mxGeometry x="200" y="582" width="438" height="72" as="geometry" />
         </mxCell>
         <mxCell id="OZ0YHBkAjMOt1xUWxwwI-181" value="&lt;b style=&quot;font-style: normal;&quot;&gt;vscode创作的优势和劣势：&lt;/b&gt;&lt;br&gt;1. 插件丰富；&lt;br style=&quot;font-size: 11px;&quot;&gt;2. 写作的markdown可以直接上传到知乎；&lt;br style=&quot;font-size: 11px;&quot;&gt;3. 对R代码支持不如Rstudio。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontColor=#46495D;fontStyle=2;horizontal=1;fontSize=11;arcSize=0;" parent="1" vertex="1">
-          <mxGeometry x="54" y="672" width="240" height="60" as="geometry" />
+          <mxGeometry x="200" y="672" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OZ0YHBkAjMOt1xUWxwwI-182" value="&lt;b style=&quot;font-style: normal;&quot;&gt;Typora创作的优势和劣势：&lt;/b&gt;&lt;br&gt;1. 模板精美；&lt;br style=&quot;font-size: 11px;&quot;&gt;2. 所见即所得；&lt;br style=&quot;font-size: 11px;&quot;&gt;3. 可以导出各种格式，包括word;&lt;br&gt;4. 无法使用R/Python。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontColor=#46495D;fontStyle=2;horizontal=1;fontSize=11;arcSize=0;" parent="1" vertex="1">
-          <mxGeometry x="55" y="747" width="192" height="72" as="geometry" />
+          <mxGeometry x="201" y="747" width="192" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
