@@ -8,7 +8,7 @@
           <mxGeometry x="800" y="10" width="170" height="730" as="geometry" />
         </mxCell>
         <mxCell id="knSb41136RzFsdX5-0hG-269" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="knSb41136RzFsdX5-0hG-104">
-          <mxGeometry y="82" width="170" height="588" as="geometry" />
+          <mxGeometry x="91" y="82" width="170" height="588" as="geometry" />
         </mxCell>
         <mxCell id="knSb41136RzFsdX5-0hG-105" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;shadow=0;gradientColor=none;swimlaneFillColor=none;verticalAlign=middle;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="knSb41136RzFsdX5-0hG-269">
           <mxGeometry width="170" height="90" as="geometry" />
@@ -737,7 +737,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="knSb41136RzFsdX5-0hG-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;shadow=0;gradientColor=none;swimlaneFillColor=none;verticalAlign=middle;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="311" width="363" height="165" as="geometry" />
+          <mxGeometry x="111" y="311" width="363" height="165" as="geometry" />
         </mxCell>
         <mxCell id="knSb41136RzFsdX5-0hG-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;verticalAlign=middle;align=center;labelBackgroundColor=#616161;textShadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="knSb41136RzFsdX5-0hG-2">
           <mxGeometry width="363" height="19" as="geometry" />
@@ -1082,7 +1082,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="knSb41136RzFsdX5-0hG-75" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;shadow=0;gradientColor=none;swimlaneFillColor=none;verticalAlign=middle;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="330" width="203" height="128" as="geometry" />
+          <mxGeometry x="541" y="330" width="203" height="128" as="geometry" />
         </mxCell>
         <mxCell id="knSb41136RzFsdX5-0hG-76" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;verticalAlign=middle;align=center;labelBackgroundColor=#616161;textShadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="knSb41136RzFsdX5-0hG-75">
           <mxGeometry width="203" height="19" as="geometry" />
@@ -1212,6 +1212,9 @@
         </mxCell>
         <mxCell id="knSb41136RzFsdX5-0hG-261" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="knSb41136RzFsdX5-0hG-2" target="knSb41136RzFsdX5-0hG-75">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="knSb41136RzFsdX5-0hG-270" value="w2l_nest(data = test_data, cols2l = c(&quot;Trait1&quot;, &quot;Trait2&quot;, &quot;Trait3&quot;), by = &quot;Breed&quot;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="150" y="710" width="870" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
