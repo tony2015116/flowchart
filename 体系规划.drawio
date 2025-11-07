@@ -14,7 +14,7 @@
           <mxGeometry x="43" y="80" width="120" height="38.22857142857144" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-143" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="43" y="102.8742857142856" width="1544" height="445" as="geometry" />
+          <mxGeometry x="43" y="102.8742857142856" width="1544" height="451.1657142857144" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v9UCA9fuD4ctdYG47bOo-143" source="v9UCA9fuD4ctdYG47bOo-74" target="v9UCA9fuD4ctdYG47bOo-79">
           <mxGeometry relative="1" as="geometry" />
@@ -259,6 +259,9 @@
         <mxCell id="v9UCA9fuD4ctdYG47bOo-222" value="核心后备场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="v9UCA9fuD4ctdYG47bOo-143">
           <mxGeometry x="287.26" y="-22.874285714285605" width="120" height="38.22857142857144" as="geometry" />
         </mxCell>
+        <mxCell id="v9UCA9fuD4ctdYG47bOo-229" value="备注：大庆二场正由扩繁场转为商品场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=none;strokeColor=none;" vertex="1" parent="v9UCA9fuD4ctdYG47bOo-143">
+          <mxGeometry x="737" y="427.12571428571437" width="401" height="34.04" as="geometry" />
+        </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-223" value="扩繁一胎场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="820" y="80" width="120" height="38.22857142857144" as="geometry" />
         </mxCell>
@@ -276,9 +279,6 @@
             <mxPoint x="37" y="79" as="sourcePoint" />
             <mxPoint x="1604" y="79" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="v9UCA9fuD4ctdYG47bOo-229" value="备注：大庆二场正由扩繁场转为商品场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="560" width="401" height="34.04" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
