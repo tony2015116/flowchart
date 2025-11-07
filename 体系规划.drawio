@@ -11,7 +11,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-128" value="核心母猪场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="43" y="80" width="120" height="38.22857142857144" as="geometry" />
+          <mxGeometry x="43" y="77" width="120" height="38.22857142857144" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-143" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="43" y="102.8742857142856" width="1544" height="451.1657142857144" as="geometry" />
@@ -245,27 +245,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-222" value="核心后备场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="v9UCA9fuD4ctdYG47bOo-143">
-          <mxGeometry x="287.26" y="-22.874285714285605" width="120" height="38.22857142857144" as="geometry" />
+          <mxGeometry x="287.26" y="-25.874285714285605" width="120" height="38.22857142857144" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-229" value="备注：大庆二场正由扩繁场转为商品场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=none;strokeColor=none;" vertex="1" parent="v9UCA9fuD4ctdYG47bOo-143">
           <mxGeometry x="737" y="427.12571428571437" width="401" height="34.04" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-223" value="扩繁一胎场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
-          <mxGeometry x="820" y="80" width="120" height="38.22857142857144" as="geometry" />
+          <mxGeometry x="820" y="77" width="120" height="38.22857142857144" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-224" value="扩繁经产场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="80" width="120" height="38.22857142857144" as="geometry" />
+          <mxGeometry x="1060" y="77" width="120" height="38.22857142857144" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-225" value="商品一胎场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="80" width="120" height="38.22857142857144" as="geometry" />
+          <mxGeometry x="1350" y="77" width="120" height="38.22857142857144" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-226" value="商品经产场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="80" width="120" height="38.22857142857144" as="geometry" />
+          <mxGeometry x="1480" y="77" width="120" height="38.22857142857144" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-227" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="37" y="79" as="sourcePoint" />
-            <mxPoint x="1604" y="79" as="targetPoint" />
+            <mxPoint x="37" y="74" as="sourcePoint" />
+            <mxPoint x="1604" y="74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
