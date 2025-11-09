@@ -10,9 +10,6 @@
             <mxPoint x="1600" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v9UCA9fuD4ctdYG47bOo-128" value="核心母猪场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
-          <mxGeometry x="43" y="77" width="120" height="38.22857142857144" as="geometry" />
-        </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-143" value="" style="group;fontSize=20;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="43" y="102.8742857142856" width="1544" height="451.1657142857144" as="geometry" />
         </mxCell>
@@ -74,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-95" value="断奶小肥猪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
-          <mxGeometry x="875.1534883720933" y="282.63026778005155" width="107.72093023255827" height="34.03804984209945" as="geometry" />
+          <mxGeometry x="945.1534883720933" y="205.63026778005155" width="107.72093023255827" height="34.03804984209945" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" source="v9UCA9fuD4ctdYG47bOo-99" target="v9UCA9fuD4ctdYG47bOo-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -86,10 +83,16 @@
           <mxGeometry x="875.1534883720933" y="132.25337681999363" width="107.72093023255827" height="35.21177569872381" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-100" value="肉猪养户" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
-          <mxGeometry x="1019.758139534886" y="282.0434048517393" width="107.72093023255827" height="35.21177569872381" as="geometry" />
+          <mxGeometry x="1089.7581395348861" y="205.0434048517393" width="107.72093023255827" height="35.21177569872381" as="geometry" />
+        </mxCell>
+        <mxCell id="nTGP9v-VLuLey3PhcvvN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v9UCA9fuD4ctdYG47bOo-143" source="v9UCA9fuD4ctdYG47bOo-101" target="nTGP9v-VLuLey3PhcvvN-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-101" value="郭祥三场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
-          <mxGeometry x="1019.758139534886" y="107.79566690716415" width="107.72093023255827" height="35.21177569872381" as="geometry" />
+          <mxGeometry x="1018.7581395348861" y="107.79566690716415" width="107.72093023255827" height="35.21177569872381" as="geometry" />
+        </mxCell>
+        <mxCell id="nTGP9v-VLuLey3PhcvvN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v9UCA9fuD4ctdYG47bOo-143" source="v9UCA9fuD4ctdYG47bOo-102" target="nTGP9v-VLuLey3PhcvvN-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-102" value="凤凰一场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
           <mxGeometry x="1019.758139534886" y="156.89214578873307" width="107.72093023255827" height="37.55922741197187" as="geometry" />
@@ -104,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-1" value="龙马一场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
-          <mxGeometry y="108.04067560055309" width="107.72093023255827" height="35.21177569872381" as="geometry" />
+          <mxGeometry y="123.04067560055309" width="107.72093023255827" height="35.21177569872381" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" source="v9UCA9fuD4ctdYG47bOo-4" target="v9UCA9fuD4ctdYG47bOo-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -115,20 +118,11 @@
         <mxCell id="v9UCA9fuD4ctdYG47bOo-4" value="龙马二场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
           <mxGeometry x="287.25581395348644" y="66.96027061870916" width="107.72093023255827" height="35.21177569872381" as="geometry" />
         </mxCell>
-        <mxCell id="v9UCA9fuD4ctdYG47bOo-7" value="" style="group;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1" connectable="0">
-          <mxGeometry x="143.62790697674322" y="66.96027061870916" width="107.72093023255827" height="117.3725856624125" as="geometry" />
-        </mxCell>
-        <mxCell id="v9UCA9fuD4ctdYG47bOo-2" value="断奶种猪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-7" vertex="1">
-          <mxGeometry x="5" width="107.72093023255827" height="35.21177569872389" as="geometry" />
-        </mxCell>
-        <mxCell id="v9UCA9fuD4ctdYG47bOo-3" value="断奶小肥猪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-7" vertex="1">
-          <mxGeometry x="5" y="82.16080996368875" width="107.72093023255827" height="35.21177569872389" as="geometry" />
-        </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;strokeColor=#FF3333;" parent="v9UCA9fuD4ctdYG47bOo-143" source="v9UCA9fuD4ctdYG47bOo-2" target="v9UCA9fuD4ctdYG47bOo-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-10" value="肉猪养户" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
-          <mxGeometry x="287.25581395348644" y="149.12108058239804" width="107.72093023255827" height="35.21177569872381" as="geometry" />
+          <mxGeometry x="287.25581395348644" y="175.12108058239804" width="107.72093023255827" height="35.21177569872381" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" source="v9UCA9fuD4ctdYG47bOo-3" target="v9UCA9fuD4ctdYG47bOo-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -157,82 +151,57 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-22" value="德邦场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
-          <mxGeometry x="1307.9116279069701" y="128.14541024518917" width="107.72093023255827" height="34.03804984209945" as="geometry" />
+          <mxGeometry x="961.9116279069701" y="361.14541024518917" width="107.72093023255827" height="34.03804984209945" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" source="v9UCA9fuD4ctdYG47bOo-23" target="v9UCA9fuD4ctdYG47bOo-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-23" value="大庆一场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
-          <mxGeometry x="1307.9116279069701" y="81.17005925698139" width="107.72093023255827" height="35.798638627035665" as="geometry" />
+          <mxGeometry x="961.9116279069701" y="314.1700592569814" width="107.72093023255827" height="35.798638627035665" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" source="v9UCA9fuD4ctdYG47bOo-24" target="v9UCA9fuD4ctdYG47bOo-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-24" value="郭祥二场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
-          <mxGeometry x="1307.9116279069701" y="36.173725856624266" width="107.72093023255827" height="35.21177569872381" as="geometry" />
+          <mxGeometry x="961.9116279069701" y="269.1737258566243" width="107.72093023255827" height="35.21177569872381" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-26" value="雄桂场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
-          <mxGeometry x="1437.279069767439" y="125.96375388836988" width="107.72093023255827" height="35.21177569872381" as="geometry" />
+          <mxGeometry x="1091.279069767439" y="358.96375388836987" width="107.72093023255827" height="35.21177569872381" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-27" value="大庆二场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
-          <mxGeometry x="1436.279069767439" y="80.7753084083409" width="107.72093023255827" height="35.21177569872381" as="geometry" />
+          <mxGeometry x="1090.279069767439" y="313.7753084083409" width="107.72093023255827" height="35.21177569872381" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-28" value="凤凰二场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
-          <mxGeometry x="1436.279069767439" y="35" width="107.72093023255827" height="37.55922741197187" as="geometry" />
+          <mxGeometry x="1090.279069767439" y="268" width="107.72093023255827" height="37.55922741197187" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-68" value="公猪站" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
           <mxGeometry x="574.5116279069729" y="90.7075921676698" width="107.72093023255827" height="35.21177569872381" as="geometry" />
         </mxCell>
-        <mxCell id="v9UCA9fuD4ctdYG47bOo-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" source="v9UCA9fuD4ctdYG47bOo-122" target="v9UCA9fuD4ctdYG47bOo-123" edge="1">
+        <mxCell id="nTGP9v-VLuLey3PhcvvN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v9UCA9fuD4ctdYG47bOo-143" source="v9UCA9fuD4ctdYG47bOo-122" target="nTGP9v-VLuLey3PhcvvN-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nTGP9v-VLuLey3PhcvvN-1" value="断奶纯种仔猪" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;" vertex="1" connectable="0" parent="v9UCA9fuD4ctdYG47bOo-132">
-          <mxGeometry x="-0.2319" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-122" value="大庆二场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
-          <mxGeometry x="1019.758139534886" y="59.415266065029" width="107.72093023255827" height="35.21177569872381" as="geometry" />
+          <mxGeometry x="1018.7581395348861" y="60.415266065029" width="107.72093023255827" height="35.21177569872381" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" source="v9UCA9fuD4ctdYG47bOo-123" target="v9UCA9fuD4ctdYG47bOo-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v9UCA9fuD4ctdYG47bOo-123" value="代养后备场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
-          <mxGeometry x="660" y="204.36" width="118" height="37.64" as="geometry" />
-        </mxCell>
-        <mxCell id="v9UCA9fuD4ctdYG47bOo-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" target="v9UCA9fuD4ctdYG47bOo-123" edge="1">
+        <mxCell id="nTGP9v-VLuLey3PhcvvN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="v9UCA9fuD4ctdYG47bOo-143" source="v9UCA9fuD4ctdYG47bOo-123" target="nTGP9v-VLuLey3PhcvvN-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="168.76279069767463" y="333.36446000449405" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="168.76279069767446" y="384.20836930937816" />
-              <mxPoint x="707.3674418604671" y="384.20836930937816" />
+              <mxPoint x="757" y="278" />
+              <mxPoint x="795" y="278" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v9UCA9fuD4ctdYG47bOo-79" value="断奶种猪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
+        <mxCell id="v9UCA9fuD4ctdYG47bOo-123" value="代养后备场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
+          <mxGeometry x="660" y="204.36" width="118" height="37.64" as="geometry" />
+        </mxCell>
+        <mxCell id="v9UCA9fuD4ctdYG47bOo-79" value="断奶小种猪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
           <mxGeometry x="147.62790697674322" y="298.15268430577066" width="107.72093023255827" height="35.21177569872389" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-80" value="断奶小肥猪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
           <mxGeometry x="147.62790697674322" y="409.78822430127593" width="107.72093023255827" height="35.21177569872389" as="geometry" />
-        </mxCell>
-        <mxCell id="v9UCA9fuD4ctdYG47bOo-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="168.76279069767463" y="64.96027061870916" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="168.76279069767446" y="22.985097046613223" />
-              <mxPoint x="708.2651162790712" y="22.985097046613223" />
-            </Array>
-            <mxPoint x="715.2000000000003" y="170.36000000000016" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="v9UCA9fuD4ctdYG47bOo-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" source="v9UCA9fuD4ctdYG47bOo-133" target="v9UCA9fuD4ctdYG47bOo-139" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v9UCA9fuD4ctdYG47bOo-133" value="断奶二元&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;仔猪&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
-          <mxGeometry x="1067" y="213.28" width="219.31" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="v9UCA9fuD4ctdYG47bOo-139" value="湖南扬翔" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
-          <mxGeometry x="1170.6930232558107" y="309.43318213538043" width="107.72093023255827" height="34.03804984209945" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-110" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -241,13 +210,58 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-222" value="核心后备场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
-          <mxGeometry x="287.26" y="-25.874285714285605" width="120" height="38.22857142857144" as="geometry" />
+          <mxGeometry x="1327" y="130.7457142857144" width="120" height="38.22857142857144" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-229" value="备注：大庆二场正由扩繁场转为商品场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=none;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
           <mxGeometry x="737" y="427.12571428571437" width="401" height="34.04" as="geometry" />
         </mxCell>
-        <mxCell id="nTGP9v-VLuLey3PhcvvN-4" value="断奶母猪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="v9UCA9fuD4ctdYG47bOo-143">
-          <mxGeometry x="1164.56" y="111.94571428571442" width="107.72093023255827" height="34.03804984209945" as="geometry" />
+        <mxCell id="nTGP9v-VLuLey3PhcvvN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="v9UCA9fuD4ctdYG47bOo-143" source="nTGP9v-VLuLey3PhcvvN-4" target="v9UCA9fuD4ctdYG47bOo-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1232" y="37" />
+              <mxPoint x="749" y="37" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTGP9v-VLuLey3PhcvvN-4" value="断奶二元小猪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="v9UCA9fuD4ctdYG47bOo-143">
+          <mxGeometry x="1169.28" y="108.84" width="125.44" height="34.04" as="geometry" />
+        </mxCell>
+        <mxCell id="v9UCA9fuD4ctdYG47bOo-2" value="断奶小种猪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
+          <mxGeometry x="148.62790697674322" y="66.96027061870916" width="107.72093023255827" height="35.21177569872389" as="geometry" />
+        </mxCell>
+        <mxCell id="v9UCA9fuD4ctdYG47bOo-3" value="断奶小肥猪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
+          <mxGeometry x="148.62790697674322" y="175.1210805823979" width="107.72093023255827" height="35.21177569872389" as="geometry" />
+        </mxCell>
+        <mxCell id="nTGP9v-VLuLey3PhcvvN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v9UCA9fuD4ctdYG47bOo-143" source="nTGP9v-VLuLey3PhcvvN-11" target="v9UCA9fuD4ctdYG47bOo-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTGP9v-VLuLey3PhcvvN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v9UCA9fuD4ctdYG47bOo-143" source="nTGP9v-VLuLey3PhcvvN-11" target="v9UCA9fuD4ctdYG47bOo-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTGP9v-VLuLey3PhcvvN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v9UCA9fuD4ctdYG47bOo-143" source="nTGP9v-VLuLey3PhcvvN-11" target="v9UCA9fuD4ctdYG47bOo-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTGP9v-VLuLey3PhcvvN-11" value="二元后备母猪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="v9UCA9fuD4ctdYG47bOo-143">
+          <mxGeometry x="733.16" y="314.13" width="123" height="34.04" as="geometry" />
+        </mxCell>
+        <mxCell id="nTGP9v-VLuLey3PhcvvN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.432;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="v9UCA9fuD4ctdYG47bOo-143" source="v9UCA9fuD4ctdYG47bOo-2" target="v9UCA9fuD4ctdYG47bOo-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="202" y="37" />
+              <mxPoint x="711" y="37" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTGP9v-VLuLey3PhcvvN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.432;entryY=0.924;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="v9UCA9fuD4ctdYG47bOo-143" source="v9UCA9fuD4ctdYG47bOo-79" target="v9UCA9fuD4ctdYG47bOo-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="201" y="377" />
+              <mxPoint x="711" y="377" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v9UCA9fuD4ctdYG47bOo-128" value="核心母猪场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
+          <mxGeometry x="1327" y="60.415714285714415" width="120" height="38.22857142857144" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-223" value="扩繁一胎场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="820" y="77" width="120" height="38.22857142857144" as="geometry" />
@@ -263,9 +277,18 @@
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-227" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="37" y="74" as="sourcePoint" />
-            <mxPoint x="1604" y="74" as="targetPoint" />
+            <mxPoint x="37" y="38" as="sourcePoint" />
+            <mxPoint x="1604" y="38" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nTGP9v-VLuLey3PhcvvN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nTGP9v-VLuLey3PhcvvN-8" target="v9UCA9fuD4ctdYG47bOo-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTGP9v-VLuLey3PhcvvN-8" value="断奶小种猪 / 断奶二元小猪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="190" y="227" width="240" height="35.21" as="geometry" />
+        </mxCell>
+        <mxCell id="nTGP9v-VLuLey3PhcvvN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9UCA9fuD4ctdYG47bOo-1" target="nTGP9v-VLuLey3PhcvvN-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
