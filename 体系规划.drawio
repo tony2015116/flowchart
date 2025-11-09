@@ -85,10 +85,7 @@
         <mxCell id="v9UCA9fuD4ctdYG47bOo-101" value="郭祥三场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
           <mxGeometry x="1018.7581395348861" y="107.79566690716415" width="107.72093023255827" height="35.21177569872381" as="geometry" />
         </mxCell>
-        <mxCell id="nTGP9v-VLuLey3PhcvvN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v9UCA9fuD4ctdYG47bOo-143" source="v9UCA9fuD4ctdYG47bOo-102" target="nTGP9v-VLuLey3PhcvvN-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v9UCA9fuD4ctdYG47bOo-102" value="凤凰一场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
+        <mxCell id="v9UCA9fuD4ctdYG47bOo-102" value="凤凰一场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
           <mxGeometry x="1019.758139534886" y="156.89214578873307" width="107.72093023255827" height="37.55922741197187" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-103" value="公猪站" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
@@ -218,7 +215,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nTGP9v-VLuLey3PhcvvN-4" value="断奶二元小猪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="v9UCA9fuD4ctdYG47bOo-143">
-          <mxGeometry x="1169.28" y="108.84" width="125.44" height="34.04" as="geometry" />
+          <mxGeometry x="1169.28" y="84.84" width="125.44" height="34.04" as="geometry" />
         </mxCell>
         <mxCell id="v9UCA9fuD4ctdYG47bOo-2" value="断奶小种猪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="v9UCA9fuD4ctdYG47bOo-143" vertex="1">
           <mxGeometry x="148.62790697674322" y="66.96027061870916" width="107.72093023255827" height="35.21177569872389" as="geometry" />
